@@ -77,9 +77,15 @@ def gradient (theta,X,y):
 ```
 
 ## Output:
+![Screenshot (194)](https://user-images.githubusercontent.com/94508142/203787756-90d4a091-0b46-4d14-84ba-28585ff413b3.png)
+
 ![Screenshot (146)](https://user-images.githubusercontent.com/94508142/196188356-9aed7af0-8343-4826-bb49-647f83db84ac.png)
+
 ![Screenshot (147)](https://user-images.githubusercontent.com/94508142/196188357-da789304-e0f5-477c-bdb4-264026ef8732.png)
+
 ![Screenshot (148)](https://user-images.githubusercontent.com/94508142/196188401-7bf4a016-f4fd-40f0-aea2-dff46a6c8505.png)
+
+![ml1](https://user-images.githubusercontent.com/94508142/203787568-1600eab8-3430-4c4f-b687-f6329adafb97.png)
 
 
 
