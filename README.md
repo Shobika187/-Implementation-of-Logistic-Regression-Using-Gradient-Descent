@@ -85,6 +85,12 @@ def gradient (theta,X,y):
 
 ![Screenshot (148)](https://user-images.githubusercontent.com/94508142/196188401-7bf4a016-f4fd-40f0-aea2-dff46a6c8505.png)
 
+![image](https://user-images.githubusercontent.com/94508142/204137623-c891a015-1bfa-4760-8449-24354336cf2e.png)
+
+![image](https://user-images.githubusercontent.com/94508142/204137643-fff4c89d-d657-48a3-b4d4-8b19387a147b.png)
+
+
+
 ![ml1](https://user-images.githubusercontent.com/94508142/203787568-1600eab8-3430-4c4f-b687-f6329adafb97.png)
 
 
